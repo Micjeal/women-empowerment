@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Skills Bootcamp",
+    "description": "A 12-week intensive course covering web development basics.",
+    "category": "Education",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Financial Literacy",
+    "description": "Workshops on personal finance, investing, and business planning.",
+    "category": "Finance",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1000&auto=format&fit=crop"
+  }
+]

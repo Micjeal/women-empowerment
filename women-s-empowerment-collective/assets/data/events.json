@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Leadership Summit 2025",
+    "description": "A day of workshops and keynotes from industry leaders.",
+    "date": "2025-06-15",
+    "time": "9:00 AM - 5:00 PM",
+    "location": "Grand Hotel, NY",
+    "image": "/placeholder.svg?height=300&width=500&text=Summit",
+    "registration": {
+      "link": "#"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Networking Mixer",
+    "description": "Connect with other professionals in your area.",
+    "date": "2025-07-01",
+    "time": "6:00 PM - 8:00 PM",
+    "location": "Community Center",
+    "image": "/placeholder.svg?height=300&width=500&text=Mixer",
+    "registration": {
+      "link": "#"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Financial Wellness Workshop",
+    "description": "Learn strategies for managing your personal finances.",
+    "date": "2025-07-10",
+    "time": "10:00 AM - 12:00 PM",
+    "location": "Online (Zoom)",
+    "image": "/placeholder.svg?height=300&width=500&text=Finance",
+    "registration": {
+      "link": "#"
+    }
+  }
+]

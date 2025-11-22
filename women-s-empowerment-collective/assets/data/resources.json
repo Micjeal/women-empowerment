@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Career Development Guide",
+    "description": "A comprehensive guide to navigating your career path.",
+    "category": "Career",
+    "type": "PDF",
+    "downloadUrl": "#",
+    "tags": ["Career", "Growth"]
+  },
+  {
+    "id": 2,
+    "title": "Mentorship Toolkit",
+    "description": "Resources for both mentors and mentees to get the most out of their relationship.",
+    "category": "Mentorship",
+    "type": "Workbook",
+    "downloadUrl": "#",
+    "tags": ["Mentorship"]
+  },
+  {
+    "id": 3,
+    "title": "2024 Annual Report",
+    "description": "Our impact and financials from the past year.",
+    "category": "Reports",
+    "type": "PDF",
+    "downloadUrl": "#",
+    "tags": ["Impact"]
+  }
+]
