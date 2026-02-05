@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "echo 'no build script'"
+    "build": "echo 'no build script'",
+    "host": "python3 -m http.server 4173 --bind 0.0.0.0",
+    "host:project": "python3 -m http.server 4173 --bind 0.0.0.0 --directory /workspace/women-empowerment/women-s-empowerment-collective",
+    "host:check": "curl -I http://127.0.0.1:4173/index.html | head -n 1"
   }
 }
